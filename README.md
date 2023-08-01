@@ -1,7 +1,6 @@
 ## 🌐Welcome to My Profile
 Hi there,
 I'm Duc Tai
-- 🔭 I'm currently a final-year student at the Saigon University of Technology🥰
 - 👨‍💻The programming language I use the most is C#💪
 - 💻 I'm currently learning .NET programming😎
 - 💬 Ask me about anything😊
